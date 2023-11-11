@@ -1,1 +1,1 @@
-# Stock-analysis-Pyspark-
+# This is the simple Stock Analysis Project Using Pyspark
